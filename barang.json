@@ -1,0 +1,30 @@
+{
+    "indomie": {
+        "stok": 0,
+        "harga": 0
+    },
+    "beras": {
+        "stok": 0,
+        "harga": 0
+    },
+    "minyak": {
+        "stok": 0,
+        "harga": 0
+    },
+    "teh": {
+        "stok": 0,
+        "harga": 0
+    },
+    "milo": {
+        "stok": 964,
+        "harga": 20000
+    },
+    "royco": {
+        "stok": 10,
+        "harga": 1000
+    },
+    "kopi": {
+        "stok": 10,
+        "harga": 10000
+    }
+}

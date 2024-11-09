@@ -1,0 +1,17 @@
+[
+    {
+        "username": "udin",
+        "password": "petot",
+        "saldo": 0
+    },
+    {
+        "username": "artha",
+        "password": "123",
+        "saldo": 30000
+    },
+    {
+        "username": "Jabbar",
+        "password": "123",
+        "saldo": 120000
+    }
+]
